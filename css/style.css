@@ -33,3 +33,17 @@ nav ul li a {
   color: navy;
   font-size: 16px;
 }
+
+.filters ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 20px 30px;
+  position: relative;
+}
+
+.footer {
+  margin-top: 10px;
+  text-align: center;
+  min-height: 60px;
+  background-color: navy;
+}
